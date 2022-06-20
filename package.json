@@ -1,0 +1,40 @@
+{
+  "name": "yigish-glp",
+  "version": "1.0.0",
+  "description": "gulp.js for website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Xayrulloxalilov0010/gulpnew.git"
+  },
+  "author": "Xayrulloh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xayrulloxalilov0010/gulpnew/issues"
+  },
+  "homepage": "https://github.com/Xayrulloxalilov0010/gulpnew#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-preset-minify": "^0.5.2",
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-load-plugins": "^2.0.7",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "gulp-include": "^2.4.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-ttf2woff2": "^4.0.1",
+    "sass": "^1.52.3"
+  }
+}
